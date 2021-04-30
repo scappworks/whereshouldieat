@@ -1,0 +1,16 @@
+com/scappworks/whereshouldieat/room/LocationRoomDatabase_Impl.java
+ com.scappworks.whereshouldieat.room.LocationRoomDatabase_Impl
+ com.scappworks.whereshouldieat.room.LocationRoomDatabase_Impl$1
+com/scappworks/whereshouldieat/room/LocationDAO_Impl.java
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$1
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$2
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$3
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$4
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$5
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$6
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$7
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$8
+ com.scappworks.whereshouldieat.room.LocationDAO_Impl$9
+com/scappworks/whereshouldieat/BuildConfig.java
+ com.scappworks.whereshouldieat.BuildConfig

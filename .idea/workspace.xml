@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d1f6da3-7068-4ac0-b497-6d7d78a62ac0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\Scott\Documents\Key Stuff\whereshouldieat\wsie_keystore.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/app" value="filter" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1ouqUx2YlwrcKhXx8gkeGms0Ezc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="whereshouldieat.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-29T07:37:02.148Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Scott\Documents\android projects\whereshouldieat\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$USER_HOME$/Desktop" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/values" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Scott\Documents\android projects\whereshouldieat\app\src\main\res\mipmap-mdpi" />
+      <recent name="C:\Users\Scott\Documents\android projects\whereshouldieat\app\src\main\java\com\scappworks\whereshouldieat" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.scappworks.whereshouldieat.room" />
+    </key>
+    <key name="android.template.-104635313">
+      <recent name="com.scappworks.whereshouldieat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Scott\Documents\android projects\whereshouldieat\app\src\main\res\layout-w840dp-land" />
+      <recent name="C:\Users\Scott\Documents\android projects\whereshouldieat\app\src\main\res\layout-w600dp-land" />
+      <recent name="C:\Users\Scott\Documents\android projects\whereshouldieat\app\src\main\res\layout-2600dp-land" />
+      <recent name="C:\Users\Scott\Documents\android projects\whereshouldieat\app\src\main\res\layout-600dp-land" />
+      <recent name="C:\Users\Scott\Documents\android projects\whereshouldieat\app\src\main\res\layout-h600dp-land" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="whereshouldieat.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d1f6da3-7068-4ac0-b497-6d7d78a62ac0" name="Default Changelist" comment="" />
+      <created>1614146842290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614146842290</updated>
+    </task>
+    <task id="LOCAL-00068" summary="add missing_location string to strings.xml. change hardcoded string to missing location string resource in main activity delete button">
+      <created>1617346890606</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1617346890606</updated>
+    </task>
+    <task id="LOCAL-00069" summary="remove 'chose location' string from strings.xml. remove 'chose location' toast from MainActivity.kt">
+      <created>1617347789954</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1617347789954</updated>
+    </task>
+    <task id="LOCAL-00070" summary="add fragment_add_location.xml, AddLocationFragment.kt, and fragment directory. set up fragment in activity_main.xml and MainActivity.kt. add default 'hello fragment' text to strings.xml">
+      <created>1617517299940</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1617517299941</updated>
+    </task>
+    <task id="LOCAL-00071" summary="add elevation to fragment in activity_main.xml. add button to fragment in fragment_add_location.xml">
+      <created>1617521420237</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1617521420237</updated>
+    </task>
+    <task id="LOCAL-00072" summary="make button in fragment close fragment using popbackstack function. add fragment to back stack in MainActivity.kt">
+      <created>1617766820422</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1617766820423</updated>
+    </task>
+    <task id="LOCAL-00073" summary="change layout colors and text sizes of of add location fragment in fragment_add_location.xml">
+      <created>1617773303123</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1617773303123</updated>
+    </task>
+    <task id="LOCAL-00074" summary="set up add fragment layout in fragment_add_location.xml">
+      <created>1617775884715</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1617775884715</updated>
+    </task>
+    <task id="LOCAL-00075" summary="need to work on variable passing between MainActivity.kt and AddLocationFragment.kt">
+      <created>1617781809878</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1617781809878</updated>
+    </task>
+    <task id="LOCAL-00076" summary="add AddLocationViewModel.kt class to add viewmodel holding name of the location to be inserted, which is observed in AddLocationFragment.kt. add viewmodel in AddLocationFragment.kt, as well as MainActivity.kt. use setLocation() function defined in AddLocationViewModel.kt from MainActivity.kt to change location that is observed in AddLocationFragment.kt">
+      <created>1617953690205</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1617953690206</updated>
+    </task>
+    <task id="LOCAL-00077" summary="move function for inserting word into AddLocationFragment.kt from MainActivity.kt. update readability of both AddLocationFragment.kt and MainActivity.kt. add comments to AddLocationFragment.kt and MainActivity.kt">
+      <created>1618030402313</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1618030402314</updated>
+    </task>
+    <task id="LOCAL-00078" summary="add options to dropdown menus in AddLocationFragment.kt. add dropdown_item.xml layout file for dropdown menus in AddLocationFragment.kt. add string arrays to strings.xml to be used in AddLocationFragment.kt">
+      <created>1618034617075</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1618034617075</updated>
+    </task>
+    <task id="LOCAL-00079" summary="change db to include a food type and a '24 hour'('all hours') column. change Location.kt to reflect new db table with new columns. change delete function Location objects to include new columns in MainActivity.kt. Ensure no blank column values when adding new location to database in AddLocationFragment.kt">
+      <created>1618041258932</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1618041258932</updated>
+    </task>
+    <task id="LOCAL-00080" summary="add hardcoded stings into strings.xml. add hints and text color to 'add location' button in fragment_add_location.xml">
+      <created>1618111767506</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1618111767507</updated>
+    </task>
+    <task id="LOCAL-00081" summary="move variables 'chosenHours' and 'chosenCategory' into onClickListener for finish button. change addLocationViewModel into lambda expression to clear warning">
+      <created>1618112416172</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1618112416172</updated>
+    </task>
+    <task id="LOCAL-00082" summary="set 'deleted' variable to correct 'doesn't exist' message after deleting item in db">
+      <created>1618113650729</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1618113650729</updated>
+    </task>
+    <task id="LOCAL-00083" summary="move keyboard closing code to closeKeyboard() function for better readability">
+      <created>1618114212604</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1618114212604</updated>
+    </task>
+    <task id="LOCAL-00084" summary="fix whitespace problem in dropdown_item.xml by changing constraintview to linearview. change constraints and margins and general UI layout in fragment_add_location.xml">
+      <created>1618115283031</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1618115283031</updated>
+    </task>
+    <task id="LOCAL-00085" summary="change dropdown box and hint color in fragment_add_location.xml. remove extra space in dropdown_item.xml. add margin and border radius to dropdown menu and submit button in activity_main.xml">
+      <created>1618117252478</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1618117252478</updated>
+    </task>
+    <task id="LOCAL-00086" summary="take 'noactionbar' out of themes.xml (day and night)">
+      <created>1618119843288</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1618119843288</updated>
+    </task>
+    <task id="LOCAL-00087" summary="add option menu to main activity for future recyclerview filtering. add view_filter.xml">
+      <created>1618122421473</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1618122421473</updated>
+    </task>
+    <task id="LOCAL-00088" summary="add FilterFragment.kt and fragment_filter.xml. put new filter fragment in option select in MainActivity.kt. reduce view_filter.xml layout to bare minimum">
+      <created>1618126722756</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1618126722756</updated>
+    </task>
+    <task id="LOCAL-00089" summary="change size of fragment in activity_main.xml. add onviewcreated function in FilterFragment.kt. add buttons and drop down menus to fragment_filter.xml">
+      <created>1618384609632</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1618384609633</updated>
+    </task>
+    <task id="LOCAL-00090" summary="add bundle functionality to get data from finishing fragment FilterFragment.kt on filter submit. receive values in MainActivity.kt">
+      <created>1618456899646</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1618456899646</updated>
+    </task>
+    <task id="LOCAL-00091" summary="add getFilteredLocations method to LocationDAO.kt, LocationRepository.kt, LocationViewModel.kt, and FilterFragment.kt">
+      <created>1618459519078</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1618459519078</updated>
+    </task>
+    <task id="LOCAL-00092" summary="add new Flow item return for filtered db results to LocationRepository.kt and LocationViewModel.kt. add filtered view observer and activity restart on filter fragment completion to MainActivity.kt">
+      <created>1618638970718</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1618638970718</updated>
+    </task>
+    <task id="LOCAL-00093" summary="change 'hours' var in LocationDAO.kt to use String instead of Boolean, change all related functions using Boolean instead of String">
+      <created>1618641870596</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1618641870596</updated>
+    </task>
+    <task id="LOCAL-00094" summary="add 'filtered' boolean to bundle for differentiation between observing 'all' and 'filtered' locations. currently everything resets on fragment end, 'filtered' always false">
+      <created>1618644215017</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1618644215017</updated>
+    </task>
+    <task id="LOCAL-00095" summary="fix issue where filtered list was returning nothing. change 'setFilteredLocation' function to return the updated filtered Location flow. set new filtered location flow when setting filters with variables from view in LocationViewModel.kt. Move variables to top of 'onCreate' method, remove activity reset code on fragment end, update recyclerview adapter in 'fragmentResultListener' block">
+      <created>1618727117515</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1618727117516</updated>
+    </task>
+    <task id="LOCAL-00096" summary="add specific and unspecific option to LocationDAO.kt for db query. set up 'filterLocations' function to accept all possible parameters for filtering. fix a misplaced curly bracket causing the filter to break">
+      <created>1618731461059</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1618731461059</updated>
+    </task>
+    <task id="LOCAL-00097" summary="change boolean value to string value to work with specific filter db query in AddLocationFragment.kt, Location.kt. update db version in LocationRoomDatabase.kt. remove unused null string checks in LocationRepository.kt. remove commented out code to restart activity">
+      <created>1619157551754</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1619157551755</updated>
+    </task>
+    <task id="LOCAL-00098" summary="change sizes of layout items in fragment_filter.xml">
+      <created>1619158105081</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1619158105082</updated>
+    </task>
+    <task id="LOCAL-00099" summary="add 'title' to layout in fragment_filter.xml">
+      <created>1619158519565</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1619158519565</updated>
+    </task>
+    <task id="LOCAL-00100" summary="update kotlin version and plugins in build.gradle">
+      <created>1619160390509</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1619160390509</updated>
+    </task>
+    <task id="LOCAL-00101" summary="move FilterFragment.kt to fragments directory. clean up code and remove unused code in AddLocationFragment.kt and FilterFragment.kt. add string resources to strings.xml. remove unused if statement, remove unused variable, add import for FilterFragment.kt inside of MainActivity.kt">
+      <created>1619162685616</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1619162685616</updated>
+    </task>
+    <task id="LOCAL-00102" summary="increment db version in LocationRoomDatabase.kt. extend select button functionality to use filterd location from viewmodel when using filter in MainActivity.kt">
+      <created>1619163234489</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1619163234489</updated>
+    </task>
+    <task id="LOCAL-00103" summary="change some variables to private in LocationApplication.kt and LocationRepository.kt. comment out fallBackToDestructiveMigration() on db, but leaving in place for possible future use">
+      <created>1619240834376</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1619240834377</updated>
+    </task>
+    <task id="LOCAL-00104" summary="remove all Log calls from all kt files">
+      <created>1619246569157</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1619246569157</updated>
+    </task>
+    <task id="LOCAL-00105" summary="add bottom constraint to top textview in fragment_add_location.xml">
+      <created>1619248005519</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1619248005519</updated>
+    </task>
+    <task id="LOCAL-00106" summary="remove 'tools:context=&quot;.FilterFragment&quot;', fix constraint error for category box in fragment_filter.xml">
+      <created>1619248322888</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1619248322888</updated>
+    </task>
+    <task id="LOCAL-00107" summary="add 'layout-h600dp' and 'layout-h840dp' directories to change screen layout when different dpi is available">
+      <created>1619331481364</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1619331481364</updated>
+    </task>
+    <task id="LOCAL-00108" summary="change submit button text size in fragment_add_location.xml to better fit within the button">
+      <created>1619331743845</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1619331743845</updated>
+    </task>
+    <task id="LOCAL-00109" summary="make 'filter' string in strings.xml. change hardcoded 'filter' to use string resource in fragment_filter.xml in all layout directories">
+      <created>1619337542605</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1619337542605</updated>
+    </task>
+    <task id="LOCAL-00110" summary="add layouts for various size screens">
+      <created>1619340453525</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1619340453525</updated>
+    </task>
+    <task id="LOCAL-00111" summary="set 'android:configChanges=&quot;keyboardHidden|orientation|screenSize&quot;' on activity in AndroidManifest.xml to fix problem with not working buttons on screen rotation">
+      <created>1619584914221</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1619584914222</updated>
+    </task>
+    <task id="LOCAL-00112" summary="remove config change in manifest, causes 'locking' of UI and fragments">
+      <created>1619589891677</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1619589891677</updated>
+    </task>
+    <task id="LOCAL-00113" summary="put 'filter' variable inside companion object to persist value across destroy and create activities. pass value of 'filter' between instances of app creation using onSavedInstanceState and onRestoreInstanceState">
+      <created>1619593649952</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1619593649952</updated>
+    </task>
+    <task id="LOCAL-00114" summary="change view id to correct name in view_filter.xml. add lastNumber variable to savedInstanceState and companion object to persist across layout changes">
+      <created>1619594608951</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1619594608951</updated>
+    </task>
+    <task id="LOCAL-00115" summary="remove unnecessary spaces">
+      <created>1619594928891</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1619594928891</updated>
+    </task>
+    <task id="LOCAL-00116" summary="change ic_launcher so that app uses different launch icon">
+      <created>1619674809967</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1619674809969</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/app" />
+    </ignored-roots>
+    <MESSAGE value="change 'hours' var in LocationDAO.kt to use String instead of Boolean, change all related functions using Boolean instead of String" />
+    <MESSAGE value="add 'filtered' boolean to bundle for differentiation between observing 'all' and 'filtered' locations. currently everything resets on fragment end, 'filtered' always false" />
+    <MESSAGE value="fix issue where filtered list was returning nothing. change 'setFilteredLocation' function to return the updated filtered Location flow. set new filtered location flow when setting filters with variables from view in LocationViewModel.kt. Move variables to top of 'onCreate' method, remove activity reset code on fragment end, update recyclerview adapter in 'fragmentResultListener' block" />
+    <MESSAGE value="add specific and unspecific option to LocationDAO.kt for db query. set up 'filterLocations' function to accept all possible parameters for filtering. fix a misplaced curly bracket causing the filter to break" />
+    <MESSAGE value="change boolean value to string value to work with specific filter db query in AddLocationFragment.kt, Location.kt. update db version in LocationRoomDatabase.kt. remove unused null string checks in LocationRepository.kt" />
+    <MESSAGE value="change boolean value to string value to work with specific filter db query in AddLocationFragment.kt, Location.kt. update db version in LocationRoomDatabase.kt. remove unused null string checks in LocationRepository.kt. remove commented out code to restart activity" />
+    <MESSAGE value="change sizes of layout items in fragment_filter.xml" />
+    <MESSAGE value="add 'title' to layout in fragment_filter.xml" />
+    <MESSAGE value="update kotlin version and plugins in build.gradle" />
+    <MESSAGE value="move FilterFragment.kt to fragments directory. clean up code and remove unused code in AddLocationFragment.kt and FilterFragment.kt. add string resources to strings.xml. remove unused if statement, remove unused variable, add import for FilterFragment.kt inside of MainActivity.kt" />
+    <MESSAGE value="increment db version in LocationRoomDatabase.kt. extend select button functionality to use filterd location from viewmodel when using filter in MainActivity.kt" />
+    <MESSAGE value="change some variables to private in LocationApplication.kt and LocationRepository.kt. comment out fallBackToDestructiveMigration() on db, but leaving in place for possible future use" />
+    <MESSAGE value="remove all Log calls from all kt files" />
+    <MESSAGE value="add bottom constraint to top textview in fragment_add_location.xml" />
+    <MESSAGE value="remove 'tools:context=&quot;.FilterFragment&quot;', fix constraint error for category box in fragment_filter.xml" />
+    <MESSAGE value="add 'layout-h600dp' and 'layout-h840dp' directories to change screen layout when different dpi is available" />
+    <MESSAGE value="change submit button text size in fragment_add_location.xml to better fit within the button" />
+    <MESSAGE value="make 'filter' string in strings.xml. change hardcoded 'filter' to use string resource in fragment_filter.xml in all layout directories" />
+    <MESSAGE value="add layouts for various size screens" />
+    <MESSAGE value="set 'android:configChanges=&quot;keyboardHidden|orientation|screenSize&quot;' on activity in AndroidManifest.xml to fix problem with not working buttons on screen rotation" />
+    <MESSAGE value="remove config change in manifest, causes 'locking' of UI and fragments" />
+    <MESSAGE value="put 'filter' variable inside companion object to persist value across destroy and create activities. pass value of 'filter' between instances of app creation using onSavedInstanceState and onRestoreInstanceState" />
+    <MESSAGE value="change view id to correct name in view_filter.xml. add lastNumber variable to savedInstanceState and companion object to persist across layout changes" />
+    <MESSAGE value="remove unnecessary spaces" />
+    <MESSAGE value="change ic_launcher so that app uses different launch icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ic_launcher so that app uses different launch icon" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="140" key="#PSD" timestamp="1619680431316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="140" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1619680431316" />
+    <state x="488" y="0" key="#app" timestamp="1619680432267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="0" key="#app/0.0.1536.824@0.0.1536.824" timestamp="1619680432267" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619339775027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1619339775027" />
+    <state x="542" y="156" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1616647173052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="156" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616647173052" />
+    <state x="106" y="100" width="1336" height="624" key="AVDManager" timestamp="1619681242131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="106" y="100" width="1336" height="624" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1619681242131" />
+    <state x="349" y="167" key="AndroidCreateResourceDirectoryDialog" timestamp="1619340277180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="167" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1619340277180" />
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1619674390046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1619674390046" />
+    <state x="614" y="202" key="AndroidCreateXmlResourceDialog" timestamp="1619594044454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="202" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1619594044454" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1619756029060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619756029060" />
+    <state x="0" y="65" key="DiffContextDialog" timestamp="1619755387520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1619755387520" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1619756050832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619756050832" />
+    <state width="1476" height="208" key="GridCell.Tab.0.bottom" timestamp="1619681048381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619681048381" />
+    <state width="1476" height="208" key="GridCell.Tab.0.center" timestamp="1619681048381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619681048381" />
+    <state width="1476" height="208" key="GridCell.Tab.0.left" timestamp="1619681048381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619681048381" />
+    <state width="1476" height="208" key="GridCell.Tab.0.right" timestamp="1619681048381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619681048381" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1617260898007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1617260898007" />
+    <state x="450" y="115" key="RollbackChangesDialog" timestamp="1619589846603">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1619589846603" />
+    <state x="0" y="0" key="ScreenshotViewer.Dimensions" timestamp="1619681911922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="ScreenshotViewer.Dimensions/0.0.1536.824@0.0.1536.824" timestamp="1619681911922" />
+    <state x="281" y="57" key="SettingsEditor" timestamp="1619756078575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619756078575" />
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog" timestamp="1619160186051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824" timestamp="1619160186051" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1619675053049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619675053049" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1616652022511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1616652022511" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614320703164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1614320703164" />
+    <state x="475" y="11" width="586" height="801" key="find.popup" timestamp="1619328044711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="11" width="586" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1619328044711" />
+    <state x="478" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1617260233947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="125" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1617260233947" />
+    <state x="611" y="185" key="refactoring.ChangeSignatureDialog" timestamp="1618038005831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="185" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1618038005831" />
+    <state x="426" y="189" key="run.anything.popup" timestamp="1618455087444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1618455087444" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618033024268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618033024268" />
+  </component>
+</project>

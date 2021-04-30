@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LightTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/light_blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+        <item name="colorSecondary">@color/dark_purple</item>
+        <item name="colorSecondaryVariant">@color/light_purple</item>
+        <item name="colorAccent">@color/yellow</item>
+        <item name="colorButtonNormal">@color/orange</item>
+    </style>
+</resources>
