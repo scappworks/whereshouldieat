@@ -182,13 +182,6 @@
       <option name="presentableId" value="Default" />
       <updated>1614146842290</updated>
     </task>
-    <task id="LOCAL-00068" summary="add missing_location string to strings.xml. change hardcoded string to missing location string resource in main activity delete button">
-      <created>1617346890606</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1617346890606</updated>
-    </task>
     <task id="LOCAL-00069" summary="remove 'chose location' string from strings.xml. remove 'chose location' toast from MainActivity.kt">
       <created>1617347789954</created>
       <option name="number" value="00069" />
@@ -525,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619674809969</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="init commit">
+      <created>1619756230693</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1619756230694</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -555,7 +555,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/app" />
     </ignored-roots>
-    <MESSAGE value="change 'hours' var in LocationDAO.kt to use String instead of Boolean, change all related functions using Boolean instead of String" />
     <MESSAGE value="add 'filtered' boolean to bundle for differentiation between observing 'all' and 'filtered' locations. currently everything resets on fragment end, 'filtered' always false" />
     <MESSAGE value="fix issue where filtered list was returning nothing. change 'setFilteredLocation' function to return the updated filtered Location flow. set new filtered location flow when setting filters with variables from view in LocationViewModel.kt. Move variables to top of 'onCreate' method, remove activity reset code on fragment end, update recyclerview adapter in 'fragmentResultListener' block" />
     <MESSAGE value="add specific and unspecific option to LocationDAO.kt for db query. set up 'filterLocations' function to accept all possible parameters for filtering. fix a misplaced curly bracket causing the filter to break" />
@@ -580,7 +579,8 @@
     <MESSAGE value="change view id to correct name in view_filter.xml. add lastNumber variable to savedInstanceState and companion object to persist across layout changes" />
     <MESSAGE value="remove unnecessary spaces" />
     <MESSAGE value="change ic_launcher so that app uses different launch icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="change ic_launcher so that app uses different launch icon" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="140" key="#PSD" timestamp="1619680431316">
@@ -615,18 +615,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="202" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1619594044454" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1619756029060">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1619756218095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619756029060" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619756218095" />
     <state x="0" y="65" key="DiffContextDialog" timestamp="1619755387520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1619755387520" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1619756050832">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1619756089205">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619756050832" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619756089205" />
+    <state x="635" y="310" key="Github.ShareDialog" timestamp="1619756786458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1619756786458" />
     <state width="1476" height="208" key="GridCell.Tab.0.bottom" timestamp="1619681048381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -663,10 +667,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824" timestamp="1619160186051" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1619675053049">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1619756597374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619675053049" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619756597374" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1616652022511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
