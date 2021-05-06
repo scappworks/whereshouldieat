@@ -8,6 +8,14 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 
 android {
+    signingConfigs {
+        config {
+            storeFile file('C:\\Users\\Scott\\Documents\\Key Stuff\\whereshouldieat\\wsie_keystore.jks')
+            storePassword '?FMaj7add9'
+            keyAlias 'key0'
+            keyPassword '?FMaj7add9'
+        }
+    }
     compileSdkVersion 29
 
     defaultConfig {
