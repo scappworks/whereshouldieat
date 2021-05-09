@@ -1965,6 +1965,7 @@ id ignore
 id ignoreRequest
 id image
 id info
+id instruction_fragment
 id invisible
 id inward
 id italic
