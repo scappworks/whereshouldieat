@@ -27,7 +27,37 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d1f6da3-7068-4ac0-b497-6d7d78a62ac0" name="Default Changelist" comment="workspace commit" />
+    <list default="true" id="1d1f6da3-7068-4ac0-b497-6d7d78a62ac0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/64823a53b1d959e8041e6f1fb3c383c9400f105fe3cdc7dec9ef41f8e34d81d9_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/64823a53b1d959e8041e6f1fb3c383c9400f105fe3cdc7dec9ef41f8e34d81d9_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/64823a53b1d959e8041e6f1fb3c383c9400f105fe3cdc7dec9ef41f8e34d81d9_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/64823a53b1d959e8041e6f1fb3c383c9400f105fe3cdc7dec9ef41f8e34d81d9_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/64823a53b1d959e8041e6f1fb3c383c9400f105fe3cdc7dec9ef41f8e34d81d9_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/64823a53b1d959e8041e6f1fb3c383c9400f105fe3cdc7dec9ef41f8e34d81d9_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/LocationListAdapter$LocationViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/LocationListAdapter$LocationViewHolder.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/scappworks/whereshouldieat/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/scappworks/whereshouldieat/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/LocationListAdapter$LocationViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/LocationListAdapter$LocationViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/scappworks/whereshouldieat/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/scappworks/whereshouldieat/MainActivity.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +112,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/values" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wsie2/whereshouldieat/whereshouldieat-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -188,13 +218,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614146842290</updated>
-    </task>
-    <task id="LOCAL-00069" summary="remove 'chose location' string from strings.xml. remove 'chose location' toast from MainActivity.kt">
-      <created>1617347789954</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1617347789954</updated>
     </task>
     <task id="LOCAL-00070" summary="add fragment_add_location.xml, AddLocationFragment.kt, and fragment directory. set up fragment in activity_main.xml and MainActivity.kt. add default 'hello fragment' text to strings.xml">
       <created>1617517299940</created>
@@ -532,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619756230694</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="workspace commit">
+      <created>1620547508518</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1620547508519</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -567,7 +597,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/app" />
     </ignored-roots>
-    <MESSAGE value="add 'filtered' boolean to bundle for differentiation between observing 'all' and 'filtered' locations. currently everything resets on fragment end, 'filtered' always false" />
     <MESSAGE value="fix issue where filtered list was returning nothing. change 'setFilteredLocation' function to return the updated filtered Location flow. set new filtered location flow when setting filters with variables from view in LocationViewModel.kt. Move variables to top of 'onCreate' method, remove activity reset code on fragment end, update recyclerview adapter in 'fragmentResultListener' block" />
     <MESSAGE value="add specific and unspecific option to LocationDAO.kt for db query. set up 'filterLocations' function to accept all possible parameters for filtering. fix a misplaced curly bracket causing the filter to break" />
     <MESSAGE value="change boolean value to string value to work with specific filter db query in AddLocationFragment.kt, Location.kt. update db version in LocationRoomDatabase.kt. remove unused null string checks in LocationRepository.kt" />
@@ -592,7 +621,8 @@
     <MESSAGE value="remove unnecessary spaces" />
     <MESSAGE value="change ic_launcher so that app uses different launch icon" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="workspace commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="140" key="#PSD" timestamp="1619769171256">
@@ -627,18 +657,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="202" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1619594044454" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1619756218095">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1620547504846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619756218095" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1620547504846" />
     <state x="0" y="65" key="DiffContextDialog" timestamp="1619755387520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1619755387520" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1620189173579">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1620547723506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620189173579" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620547723506" />
     <state x="635" y="310" key="Github.ShareDialog" timestamp="1619756786458">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -683,10 +713,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824" timestamp="1619160186051" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1619756597374">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1620547603190">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619756597374" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620547603190" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1616652022511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
